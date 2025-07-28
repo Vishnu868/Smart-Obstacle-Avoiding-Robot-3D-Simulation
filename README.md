@@ -76,5 +76,5 @@ Simulation includes:
 
 ---
 ## Visualization
-![360](videos/360_turn.mp4)
+![360](Screenshot2025-07-28113228.png)
 
