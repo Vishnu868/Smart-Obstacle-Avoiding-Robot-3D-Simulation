@@ -17,7 +17,7 @@ This project focuses on building a **smart autonomous robot** capable of navigat
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Hardware:**
   - Ultrasonic sensors (HC-SR04)
