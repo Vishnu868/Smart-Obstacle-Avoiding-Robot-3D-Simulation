@@ -76,5 +76,5 @@ Simulation includes:
 
 ---
 ## Visualization
-![360](Screenshot 2025-07-28 113228.png)
+![360](360.png)
 
