@@ -29,7 +29,7 @@ This project focuses on building a **smart autonomous robot** capable of navigat
 
 - **Software/Simulators:**
   - Python / C++
-  - ROS / Gazebo / Webots / Unity (for 3D simulation)
+  - CoppeliaSim
   - OpenCV (for camera object detection)
   - Bluetooth Serial Communication
   - Speech Recognition (Voice control)
